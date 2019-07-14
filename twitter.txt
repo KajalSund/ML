@@ -1,0 +1,16 @@
+hii! My name is Kajal Sund and i am requesting for Twitter API. I am doing machine learning training under Mr. Rahul Pathak at CETPA training center Noida, India. I will use this api to check working of machine learning algorithm in real time.
+
+
+
+By using twitter data in real time one can analyze number of positive, negative and neutral tweets on a particular issue using machine learning algorithms.
+
+
+
+It will take real time tweets, likes or comments and analyze and differentiate them on the basis of natural language used in tweets and intentions behind that particular tweet.
+
+
+No, this application do not display Twitter content outside twitter directly, rather it only analyze data and predict results on Spyder API.
+
+
+No, this is only a project to check machine learning algorithm working in real time big dataset.
+
